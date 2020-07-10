@@ -86,11 +86,11 @@ a {
 }
 
 .loginbg {
-    background-image: url(sparqlunicorn_quad_5000_6000_dfbadc.png);
+    background-image: url(sparqlunicorn_quad_5000_6000_ffffff.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    background-color: #dfbadc !important;
+    background-color: #ffffff !important;
 }
 
 .header {
